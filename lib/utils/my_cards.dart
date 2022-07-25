@@ -35,7 +35,7 @@ class myCard extends StatelessWidget {
                   ),
                   // SizedBox(height:10),
                   Text('\$ '+ balance.toString(),style: TextStyle(fontSize:36,color:Colors.white,fontWeight:FontWeight.bold)),
-                  SizedBox(height:40),
+                  SizedBox(height:30),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
